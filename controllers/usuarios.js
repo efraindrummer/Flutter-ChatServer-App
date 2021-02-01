@@ -16,7 +16,7 @@ const getUsuarios = async (req, res = response) => {
         usuarios,
     });
     
-}
+} 
 
 module.exports = {
     getUsuarios
